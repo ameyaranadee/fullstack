@@ -1,3 +1,3 @@
 ### fullstack open course
 
-all the course for the fullstackopen course dropped here
+all the code for the fullstackopen course dropped here
